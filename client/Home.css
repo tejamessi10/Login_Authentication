@@ -1,0 +1,16 @@
+.home {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  margin-bottom: auto;
+  width: 8rem;
+}
+.wel {
+  font-weight: bold;
+  font-size: 30px;
+  font-style: italic;
+}
+.link {
+  font-weight: normal;
+  font-size: 20px;
+}
